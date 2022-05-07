@@ -1,0 +1,18 @@
+Jira Software + GitHub
+
+By connecting your code in GitHub to your projects in Jira, your developers can focus less on updates and more on building great products. And with source code data flowing through Jira, the broader team can visualize deployment data in one place, extract key insights, and build powerful automations in Jira.
+
+Automatic context in Jira
+
+Get updates in Jira on pull requests, deployments, branches, builds, and commits.
+Easily view and access repositories from the project.
+Give the whole team visibility into what shipped, along with DevOps performance insights on deployment frequency, cycle time, and more.
+Keep developers in Github
+
+Show relevant Jira information in GitHub issues and pull requests.
+Use Smart Commits to perform certain tasks within Jira such as transitioning issues, adding comments, and updating time tracking information
+Give feedback
+
+Your thoughts are valuable in helping improve our products.
+
+If you're looking to get help or want to report a bug, visit our support site.
